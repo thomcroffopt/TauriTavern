@@ -1,0 +1,12 @@
+{
+    "display_name": "GameContent 实时流式传输助手",
+    "loading_order": 10,
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css",
+    "author": "Antigravity",
+    "version": "1.0.0",
+    "home_page": "https://github.com/Darkatse/TauriTavern",
+    "description": "专为 Reborn 等使用 game_content 伪工具输出正文的预设打造。拦截 SSE 流并实时提取 content 渲染为原生打字机流式输出。"
+}
